@@ -19,3 +19,6 @@
   * LINUX ( 리눅스 )   
   <http://github.com/torvalds/linux>   
   오픈 소스로 구성된 운영채제로서 평소에 많이 들어봤고, 다른 수업에서 배우고 있어 관심을 가지게 되었습니다.   
+  
+  * PAGE ( 자기소개 )
+  <https://knight1726.github.io>
